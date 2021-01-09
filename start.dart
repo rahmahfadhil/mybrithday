@@ -27,7 +27,7 @@ var days;
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.lime,
+          backgroundColor: Colors.indigo,
           title: Text('WELCOme IN BIRTHDAY APP'),
         ),
         body: Center(
